@@ -1,0 +1,24 @@
+2025-06-20 18:47:21 [Prediction] Text: The movie was slow and boring... | Label: Negative | Confidence: 0.93
+2025-06-20 18:47:21 [Final] Text: The movie was slow and boring... | Final Label: Negative | Corrected: False
+2025-06-20 18:47:47 [Prediction] Text: The Movie was absolutely Mindblowing... | Label: Positive | Confidence: 0.82
+2025-06-20 18:47:47 [Final] Text: The Movie was absolutely Mindblowing... | Final Label: Positive | Corrected: False
+2025-06-20 18:48:18 [Prediction] Text: The moview was painfully boring... | Label: Negative | Confidence: 0.92
+2025-06-20 18:48:18 [Final] Text: The moview was painfully boring... | Final Label: Negative | Corrected: False
+2025-06-20 18:49:05 [Prediction] Text: The movie was painfully slow and boring... | Label: Negative | Confidence: 0.93
+2025-06-20 18:49:05 [Final] Text: The movie was painfully slow and boring... | Final Label: Negative | Corrected: False
+2025-06-20 18:50:56 [Prediction] Text: Gets the job done, but it�s not cheap!... | Label: Negative | Confidence: 0.91
+2025-06-20 18:50:56 [Final] Text: Gets the job done, but it�s not cheap!... | Final Label: Negative | Corrected: False
+2025-06-20 18:51:05 [Prediction] Text: OK, in fact good, to start with but kept getting worse and w... | Label: Negative | Confidence: 0.73
+2025-06-20 18:51:05 [Final] Text: OK, in fact good, to start with but kept getting worse and w... | Final Label: Negative | Corrected: False
+2025-06-20 18:51:29 [Prediction] Text: Gets the job done, but it�s not cheap!... | Label: Negative | Confidence: 0.91
+2025-06-20 18:51:29 [Final] Text: Gets the job done, but it�s not cheap!... | Final Label: Negative | Corrected: False
+2025-06-20 18:58:53 [Prediction] Text: Some parts of movie  were interesting, others not so much.... | Label: Negative | Confidence: 0.75
+2025-06-20 18:58:53 [Final] Text: Some parts of movie  were interesting, others not so much.... | Final Label: Negative | Corrected: False
+2025-06-20 18:59:10 [Prediction] Text: I have Mixed Feelings... | Label: Negative | Confidence: 0.64
+2025-06-20 18:59:10 [Fallback] Text: I have Mixed Feelings... | Label: Negative | Confidence: 0.64
+2025-06-20 18:59:40 [Final] Text: I have Mixed Feelings... | Final Label: Positive | Corrected: True
+2025-06-20 19:00:41 [Prediction] Text: I expected something different , but it was completely diffe... | Label: Positive | Confidence: 0.51
+2025-06-20 19:00:41 [Fallback] Text: I expected something different , but it was completely diffe... | Label: Positive | Confidence: 0.51
+2025-06-20 19:01:54 [Final] Text: I expected something different , but it was completely diffe... | Final Label: Negative | Corrected: True
+2025-06-20 19:02:06 [Prediction] Text: I Love the Plot of Movie ... | Label: Positive | Confidence: 0.89
+2025-06-20 19:02:06 [Final] Text: I Love the Plot of Movie ... | Final Label: Positive | Corrected: False
